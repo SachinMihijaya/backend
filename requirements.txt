@@ -1,0 +1,7 @@
+fastapi
+keras
+Pillow
+numpy
+tensorflow
+python-multipart
+uuid0
